@@ -1,3 +1,7 @@
-public void mostrarMensaje() {
-    System.out.println("Vista de estudiante actualizada");
+public class StudentView {
+
+
+    public void mostrarMensaje() {
+        System.out.println("Vista de estudiantes actualizada");
+    }
 }
